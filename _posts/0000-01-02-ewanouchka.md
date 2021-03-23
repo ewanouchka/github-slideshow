@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Le coeur a ses raisons que la raison ignore.
 Use the left arrow to go back!
